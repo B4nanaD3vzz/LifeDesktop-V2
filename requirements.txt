@@ -1,0 +1,4 @@
+psutil>=5.9.0
+GPUtil>=1.4.0
+customtkinter>=5.2.0
+pandas>=2.1.0
