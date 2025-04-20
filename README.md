@@ -3,7 +3,7 @@
 <h1 text-align="center">Essa é a versão atualizaa do LifeDesktop</h1>
 
 <details>
-  details summary::marker {
+  summary::marker {
   content: "+";  /* Substituir o triângulo por um sinal de mais */
   font-size: 1.2em;
   font-weight: bold;
