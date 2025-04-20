@@ -1,0 +1,3 @@
+> BUGS ENCONTRADOS NO PROGRAMA
+
+ 1 - Ao fechar e iniciar o monitoramento de desempenho, o FPS aumenta cada vez mais, apenas a primeira amostragem é oficial.
