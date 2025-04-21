@@ -1,10 +1,6 @@
 # LifeDesktop-V2
 <img src="https://share.creavite.co/68054be48bd3b02a647afaa1.gifautoplay=1">
 
-```markdown
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7218c9b8-7ef0-4aaf-b613-8360e2748c9d/deploy-status)](https://app.netlify.com/sites/lucent-blancmange-5520d7/deploys)
-```
-
 <details>
   <summary>Versão em português - BR </summary>
 
